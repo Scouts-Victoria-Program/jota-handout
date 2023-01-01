@@ -2,4 +2,4 @@ You will hear a few weird terms thrown around this weekend, but one of the most 
 
 The diagram below explains the various ways that radio waves are modulated to send a signal. Not shown are two very common methods, Morse Code, also known as CW, and Single Side Band, usually abbreviated to SSB. Morse is basically AM, but rapidly switched on and off SSB is effectively AM, but divided in half.
 
-![](./modulation.png)
+![](images/modulation.png)
