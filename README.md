@@ -7,3 +7,7 @@
 * [CQ Calling](CQ_Calling.md)
 * [Australian Band Plans](https://www.wia.org.au/members/bandplans/data/) ([direct link](https://www.wia.org.au/members/bandplans/data/documents/Australian%20Band%20Plans%20200901.pdf))
 * [Repeater Directory](https://www.wia.org.au/members/repeaters/data/) ([PDF direct link](https://www.wia.org.au/members/repeaters/data/documents/Repeater%20Directory%20230304.pdf)) ([CSV direct link](https://www.wia.org.au/members/repeaters/data/documents/Repeater%20Directory%20230304.csv))
+
+---
+
+* [Generate azimuth maps here](https://ns6t.net/azimuth/azimuth.html)
